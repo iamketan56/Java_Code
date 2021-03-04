@@ -3,7 +3,8 @@
 <b>1 . Given the following table containing information about employees of an organization, develop
 a small java application, which accepts employee id from the command prompt and displays
 the following details as output:
-Emp No Emp Name Department Designation and Salary</b>
+Emp No Emp Name Department Designation and Salary</b><br>
+<b>Problem : </b>
 <br>
 Solution:<br>
 https://github.com/iamketan56/Java_Code/tree/main/Employee%20Details
@@ -13,5 +14,8 @@ The goal of this project is to design and implement a simple inventory control s
 rental store. Define least two classes: a class Video to model a video and a class VideoStore to model the
 actual store. </b>
 <br>
+<b>Problem : </b>
+<br>
 Solution:<br>
-
+https://github.com/iamketan56/Java_Code/tree/main/Video%20Rental%20System
+<br><br>
