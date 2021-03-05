@@ -24,5 +24,5 @@ Calculate interest based on the type of the account and the status of the accoun
 interest changes according to the amount (greater than or less than 1 crore), age of account holder
 (General or Senior citizen) and number of days if the type of account is FD or RD.</b><br>
 <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Interest%20Calculator/Prj3%20(1).pdf </b><br>
-Solution : <br>
+Solution : https://github.com/iamketan56/Java_Code/tree/main/Interest%20Calculator <br>
 
