@@ -19,3 +19,8 @@ actual store. </b>
 Solution:<br>
 https://github.com/iamketan56/Java_Code/tree/main/Video%20Rental%20System
 <br><br>
+<b>3.Interest Calculator<br>
+Calculate interest based on the type of the account and the status of the account holder. The rates of
+interest changes according to the amount (greater than or less than 1 crore), age of account holder
+(General or Senior citizen) and number of days if the type of account is FD or RD.</b><br>
+<b>Problem : </b>
