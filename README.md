@@ -26,3 +26,17 @@ interest changes according to the amount (greater than or less than 1 crore), ag
 <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Interest%20Calculator/Prj3%20(1).pdf </b><br>
 Solution : https://github.com/iamketan56/Java_Code/tree/main/Interest%20Calculator <br>
 
+<br><br>
+<b>4.Collect and Group Cards<br>
+ Write a program to collect and store all the cards to assist the users in finding all the cards in a given 
+symbol.
+This cards game consist of N number of cards. Get N number of cards details from the user and store 
+the values in Card object with the attributes symbol and number.
+Store all the cards in a map with symbol as its key and list of cards as its value. Map is used here to 
+easily group all the cards based on their symbol.
+Once all the details are captured print all the distinct symbols in alphabetical order from the Map. For 
+ each symbol print all the card details, number of cards and their sum respectively.<b></br>
+ <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Collect%20and%20Group%20Cards/Prj4.pdf </b><br>
+ Solution: https://github.com/iamketan56/Java_Code/blob/main/Collect%20and%20Group%20Cards/Store.java<br>
+ 
+ 
