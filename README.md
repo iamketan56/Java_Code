@@ -40,7 +40,7 @@ Once all the details are captured print all the distinct symbols in alphabetical
  Solution: https://github.com/iamketan56/Java_Code/blob/main/Collect%20and%20Group%20Cards/Store.java<br>
  
  <br>
- <b>Collect Unique Symbols From Set of Cards</br>
+ <b>5.Collect Unique Symbols From Set of Cards</br>
  Playing cards during travel is a fun filled experience. For this game they wanted to collect all four 
 unique symbols. Can you help these guys to collect unique symbols from a set of cards?
 Create Card class with attributes symbol and number. From our main method collect each card 
