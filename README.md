@@ -26,7 +26,7 @@ interest changes according to the amount (greater than or less than 1 crore), ag
 <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Interest%20Calculator/Prj3%20(1).pdf </b><br>
 Solution : https://github.com/iamketan56/Java_Code/tree/main/Interest%20Calculator <br>
 
-<br><br>
+<br>
 <b>4.Collect and Group Cards<br>
  Write a program to collect and store all the cards to assist the users in finding all the cards in a given 
 symbol.
