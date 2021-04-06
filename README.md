@@ -39,4 +39,14 @@ Once all the details are captured print all the distinct symbols in alphabetical
  <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Collect%20and%20Group%20Cards/Prj4.pdf </b><br>
  Solution: https://github.com/iamketan56/Java_Code/blob/main/Collect%20and%20Group%20Cards/Store.java<br>
  
- 
+ <br>
+ <b>Collect Unique Symbols From Set of Cards</br>
+ Playing cards during travel is a fun filled experience. For this game they wanted to collect all four 
+unique symbols. Can you help these guys to collect unique symbols from a set of cards?
+Create Card class with attributes symbol and number. From our main method collect each card 
+details (symbol and number) from the user.
+Collect all these cards in a set, since set is used to store unique values or objects.
+Once we collect all four different symbols display the first occurrence of card details in alphabetical 
+order.<b></br>
+<b>Problem : https://github.com/iamketan56/Java_Code/blob/main/Collect%20Unique%20Symbols%20From%20Set%20of%20Cards/Prj5.pdf</b><br>
+ Solution: https://github.com/iamketan56/Java_Code/blob/main/Collect%20Unique%20Symbols%20From%20Set%20of%20Cards/Exp22.java<br>
