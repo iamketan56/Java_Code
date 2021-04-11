@@ -50,3 +50,11 @@ Once we collect all four different symbols display the first occurrence of card 
 order.<b></br>
 <b>Problem : https://github.com/iamketan56/Java_Code/blob/main/Collect%20Unique%20Symbols%20From%20Set%20of%20Cards/Prj5.pdf</b><br>
  Solution: https://github.com/iamketan56/Java_Code/blob/main/Collect%20Unique%20Symbols%20From%20Set%20of%20Cards/Exp22.java<br>
+ 
+ <br>
+ <b>6.Write a Program to perform the basic operations like insert, delete, display and search in list. List contains 
+String object items where these operations are to be performed</b></br>
+
+<b>Problem : </b><br>
+ Solution: <br>
+ 
