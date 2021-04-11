@@ -55,6 +55,6 @@ order.<b></br>
  <b>6.Write a Program to perform the basic operations like insert, delete, display and search in list. List contains 
 String object items where these operations are to be performed</b></br>
 
-<b>Problem : </b><br>
- Solution: <br>
+<b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Operations%20on%20String%20List/Prj6.pdf </b><br>
+ Solution: https://github.com/iamketan56/Java_Code/blob/main/Operations%20on%20String%20List/Task.java<br>
  
