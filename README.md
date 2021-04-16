@@ -58,3 +58,15 @@ String object items where these operations are to be performed</b></br>
 <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Operations%20on%20String%20List/Prj6.pdf </b><br>
  Solution: https://github.com/iamketan56/Java_Code/blob/main/Operations%20on%20String%20List/Task.java<br>
  
+ <br>
+ <b>6.Create a menu based Java application with the following options.<br>
+1. Add an Employee<br>
+2. Display All<br>
+3. Exit<br>
+If option 1 is selected, the application should gather details of the employee like 
+employee name, employee id, designation and salary and store it in a file.
+If option 2 is selected, the application should display all the employee details.
+If option 3 is selected the application should exit.</b></br>
+<b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Operations%20on%20String%20List/Prj6.pdf </b><br>
+ Solution: https://github.com/iamketan56/Java_Code/blob/main/Operations%20on%20String%20List/Task.java<br>
+ 
