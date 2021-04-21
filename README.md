@@ -59,7 +59,7 @@ String object items where these operations are to be performed</b></br>
  Solution: https://github.com/iamketan56/Java_Code/blob/main/Operations%20on%20String%20List/Task.java<br>
  
  <br>
- <b>6.Create a menu based Java application with the following options.<br>
+ <b>7.Create a menu based Java application with the following options.<br>
 1. Add an Employee<br>
 2. Display All<br>
 3. Exit<br>
