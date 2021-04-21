@@ -70,3 +70,7 @@ If option 3 is selected the application should exit.</b></br>
 <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Employee%20Management%20System/Prj_7.pdf </b><br>
  Solution: https://github.com/iamketan56/Java_Code/blob/main/Employee%20Managmeent%20System/Employees.java<br>
  
+  <br>
+ <b>8.Longest Palindromic Substring</b></br>
+<b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Employee%20Management%20System/Prj_7.pdf </b><br>
+ Solution: https://github.com/iamketan56/Java_Code/blob/main/Employee%20Managmeent%20System/Employees.java<br>
