@@ -79,3 +79,8 @@ If option 3 is selected the application should exit.</b></br>
  <b>9.Online Auction</b></br>
 <b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Online%20Auction/Prj9.pdf</b><br>
 Solution:https://github.com/iamketan56/Java_Code/blob/main/Online%20Auction/Code.docx<br>
+  <br>
+ <b>9.Mathematical Operation</b></br>
+<b>Problem :https://github.com/iamketan56/Java_Code/blob/main/Mathematical%20Operation/prj%2010.pdf</b><br>
+Solution:https://github.com/iamketan56/Java_Code/blob/main/Mathematical%20Operation/Code.docx<br>
+
